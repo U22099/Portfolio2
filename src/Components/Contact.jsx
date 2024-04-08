@@ -6,7 +6,7 @@ const Contact = () => {
     <div id="contact" className="flex flex-col md:flex-row justify-center items-center gap-[20px] md:w-[70vw] text-white py-[40px]">
         <div className="bg-gray-900 p-[20px] w-[300px] md:w-[400px] flex flex-col justify-center">
             <h1 className="text-[2em] flex justify-start">Contact <span> Me</span></h1>
-            <p className="text-gray-500">Let's work together, reach out to on my email below or use the form</p>
+            <p className="text-gray-500">Let's work together, reach out to me on my email below or use the form</p>
             <a className=" px-[20px] md:px-[40px] ml-[10px] mt-[10px] rounded-2xl bg-primary-color text-white shadow-purple-900 shadow-lg active:shadow-none flex justify-center items-center text-[1.2em]" href="mailto:nifemiolaniyi4@gmail.com"><MdOutlineAlternateEmail className="text-[1.2em] mr-[10px]"/> Daniel WebDev</a>
         </div>
         <form className="bg-gray-900 p-[20px] w-[300px] md:w-[350px] flex flex-col justify-center gap-[15px]" action="https://formsubmit.co/7cb8eae1ddf4e71a02dbf20c7eecde43" method="POST">
