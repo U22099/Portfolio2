@@ -1,11 +1,11 @@
 import React from 'react'
 import {motion} from 'framer-motion'
-import projPic1 from '../assets/IMG_1276.JPG'
-import projPic2 from '../assets/IMG_1282.PNG'
+import projPic1 from '../assets/updateRec.jpg'
+import projPic2 from '../assets/updateRes.jpg'
 import projPic3 from '../assets/IMG_1281.PNG'
 import projPic4 from '../assets/IMG_1279.PNG'
 import projPic5 from '../assets/IMG_1225.JPG'
-import projPic6 from '../assets/IMG_E1266.JPG'
+import projPic6 from '../assets/weather.jpg'
 
 const Works = () => {
 
@@ -129,11 +129,11 @@ const Works = () => {
                     once: true
                 }}
                 className=" overflow-hidden md:col-span-1 h-[350px] rounded-lg">
-                    <a href="https://u22099.github.io/Javascript-Projects/Calculator">
+                    <a href="https://u22099.github.io/RecipeApp">
                         <img src={projPic1} alt="" className="rounded-lg img transition transform duration-500 ease-in-out hover:scale-105"/>
                         <div className="relative top-[-30%] w-[200px] bg-black rounded-xl p-[10px]">
-                            <h1 className="primary-color text-bold">Calculator Application</h1>
-                            <p className="text-white text-semibold">HTML-CSS-JAVASCRIPT</p>
+                            <h1 className="primary-color text-bold">Recipe Application</h1>
+                            <p className="text-white text-semibold">Javascript-React-Tailwindcss</p>
                         </div>
                     </a>
                 </motion.div>
@@ -145,11 +145,11 @@ const Works = () => {
                     once: true
                 }}
                 className=" overflow-hidden md:col-span-2 h-[350px] rounded-lg">
-                    <a href="https://u22099.github.io/HTML-CSS-Projects/LoginPageforClassProject/">
+                    <a href="https://u22099.github.io/SageSalt">
                         <img src={projPic2} alt="" className="rounded-lg img transition transform duration-500 ease-in-out hover:scale-105"/>
                         <div className="relative top-[-30%] w-[200px] bg-black rounded-xl p-[10px]">
                             <h1 className="primary-color text-bold">Restaurant Website</h1>
-                            <p className="text-white text-semibold">HTML-CSS</p>
+                            <p className="text-white text-semibold">javascript-React-Tailwindcss</p>
                         </div>
                     </a>
                 </motion.div>
@@ -213,11 +213,11 @@ const Works = () => {
                     once: true
                 }}
                 className=" overflow-hidden md:col-span-2 h-[350px] rounded-lg">
-                    <a href="https://u22099.github.io/Javascript-Projects/RecipeApp/">
+                    <a href="https://u22099.github.io/Javascript-Projects/WeatherApp">
                         <img src={projPic6} alt="" className="rounded-lg img transition transform duration-500 ease-in-out hover:scale-105"/>
                         <div className="relative top-[-30%] w-[200px] bg-black rounded-xl p-[10px]">
-                            <h1 className="primary-color text-bold">Recipe App</h1>
-                            <p className="text-white text-semibold">HTML-CSS-JAVASCRIPT[API][Team-Work]</p>
+                            <h1 className="primary-color text-bold">Weather App</h1>
+                            <p className="text-white text-semibold">HTML-CSS-JAVASCRIPT[API]</p>
                         </div>
                     </a>
                 </motion.div>

@@ -152,7 +152,7 @@ const Exp = () => {
                         width: "0%"
                     }}
                     whileInView={{
-                        width: "88%"
+                        width: "90%"
                     }}
                     transition={{
                         duration: 3,
@@ -182,7 +182,7 @@ const Exp = () => {
                         width: "0%"
                     }}
                     whileInView={{
-                        width: "65%"
+                        width: "75%"
                     }}
                     transition={{
                         duration: 3,
