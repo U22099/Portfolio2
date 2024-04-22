@@ -129,7 +129,7 @@ const Works = () => {
                     once: true
                 }}
                 className=" overflow-hidden md:col-span-1 h-[350px] rounded-lg">
-                    <a href="https://u22099.github.io/RecipeApp">
+                    <a href="https://u22099.github.io/RecipeApp/">
                         <img src={projPic1} alt="" className="rounded-lg img transition transform duration-500 ease-in-out hover:scale-105"/>
                         <div className="relative top-[-30%] w-[200px] bg-black rounded-xl p-[10px]">
                             <h1 className="primary-color text-bold">Recipe Application</h1>
@@ -145,7 +145,7 @@ const Works = () => {
                     once: true
                 }}
                 className=" overflow-hidden md:col-span-2 h-[350px] rounded-lg">
-                    <a href="https://u22099.github.io/SageSalt">
+                    <a href="https://u22099.github.io/Sage-Salt/">
                         <img src={projPic2} alt="" className="rounded-lg img transition transform duration-500 ease-in-out hover:scale-105"/>
                         <div className="relative top-[-30%] w-[200px] bg-black rounded-xl p-[10px]">
                             <h1 className="primary-color text-bold">Restaurant Website</h1>
@@ -213,7 +213,7 @@ const Works = () => {
                     once: true
                 }}
                 className=" overflow-hidden md:col-span-2 h-[350px] rounded-lg">
-                    <a href="https://u22099.github.io/Javascript-Projects/WeatherApp">
+                    <a href="https://u22099.github.io/Javascript-Projects/WeatherApp/">
                         <img src={projPic6} alt="" className="rounded-lg img transition transform duration-500 ease-in-out hover:scale-105"/>
                         <div className="relative top-[-30%] w-[200px] bg-black rounded-xl p-[10px]">
                             <h1 className="primary-color text-bold">Weather App</h1>
