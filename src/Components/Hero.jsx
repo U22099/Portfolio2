@@ -43,13 +43,13 @@ const Hero = () => {
                 <h1 className="text-[2em] sm:text-[2.8em] md:text-[3em] lg:text-[4.3em] w-max md:max-w-[60vw]">
                     <TypeAnimation
                         sequence={[
-                            "Frontend Dev",
+                            "Fullstack Dev",
                             1000,
                             "Graphics Designer",
                             1000,
-                            "Motion Designer",
-                            1000,
                             "UI/UX Designer",
+                            1000,
+                            "Pianist",
                             1000,
                         ]}
                         wrapper='span'
